@@ -1,0 +1,3 @@
+THis is a text file
+u need to send this file via
+UDP protocol!
